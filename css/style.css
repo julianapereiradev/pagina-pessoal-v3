@@ -533,6 +533,16 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
   font-weight: 700;
 }
 
+.bold-skills {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  font-size: 240px;
+  color: #f0f0f0;
+  font-weight: 700;
+}
+
 .bold-testimonies {
   position: absolute;
   top: 0;
