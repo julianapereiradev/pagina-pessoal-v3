@@ -1138,8 +1138,8 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
   position: absolute;
   top: -80px;
   left: 20px;
-  background: #ffe9e3;
-  color: #000;
+  background: rgb(121, 120, 120);
+  color: #fff;
   padding: 20px 10px;
   font-size: 12px;
   text-transform: uppercase;
@@ -1161,7 +1161,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
   color: #000;
 }
 .article:hover .meta {
-  background: #fff;
+  background: #9e6a52;
 }
 
 #colorlib-testimony .owl-theme .owl-dots .owl-dot.active span,
